@@ -1,5 +1,6 @@
-<div style="width: 100%; height: 300px; overflow: hidden; background-position: center; background-size: cover; background-image: url('https://cdn.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif');">
-</div>
+<p align="center">
+  <img src="https://github.com/TBag502/TBag502/assets/133415947/e681e65f-3518-47ee-8148-97734b754e38" alt="Matrix Code Animation">
+</p>
 
 <h1 align="center">Hi 👋, I'm ga</h1>
 <h3 align="center">Administration</h3>
